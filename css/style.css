@@ -13,8 +13,11 @@ ul {
     background-image: url(/img/pattern.png);
     background-repeat: repeat;
     background-size: 800px;
+    width: 200px;
     width: auto;
     height: auto;
+    
+    
     
     
  
@@ -24,6 +27,7 @@ ul {
     width: 400px;
     height:200px;
     padding-top: 100px ;
+   
 }
 
 h1{
@@ -60,9 +64,11 @@ color: grey;
 }
 
 table{
-    border: 1px solid white;
+    width: 100%;
+    text-align: left;
     border-collapse: collapse;
-    margin-top: 50px;
+    margin-top: 30px;
+   
     
 }
 
@@ -74,17 +80,7 @@ th{
     
 }
 
-.centre{
-    padding-left: 100px;
-}
 
-.rigth{
-    padding-left: 150px;
-}
-
-#rigth{
-    padding-right: 135px;
-}
 
 .colortab{
     background-color: rgb(125, 238, 238);
