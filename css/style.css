@@ -90,3 +90,37 @@ th{
     background-color: rgb(125, 238, 238);
 }
 
+h4{
+    padding-top: 30px;
+    color: gray;
+    font-size: 20px;
+}
+
+.ft-img{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 312px;
+    height: 208px;
+    margin-top: 20px;
+
+}
+
+.ft-img h2{
+    padding: 15px;
+    color: white;
+}
+
+.ft-img2{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 312px;
+    height: 208px;
+    margin-top: 20px;
+
+
+}
+
+.ft-img2 h2{
+    padding: 15px;
+    color: white;
+}
