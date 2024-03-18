@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+ul {
+    padding-left: 16px;
+}
 
 .pattern{
     background-color: #1f88b9;
@@ -41,4 +44,48 @@ color: grey;
 
 #tim1{
     margin-top: 30px;
+}
+
+.articolo{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+.lista{
+    margin-top: 30px;
+}
+
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin-top: 50px;
+    
+}
+
+th{
+    background-color: #4db6e7;
+    color: white;
+   
+
+    
+}
+
+.centre{
+    padding-left: 100px;
+}
+
+.rigth{
+    padding-left: 150px;
+}
+
+#rigth{
+    padding-right: 135px;
+}
+
+.colortab{
+    background-color: rgb(125, 238, 238);
 }
