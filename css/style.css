@@ -51,6 +51,10 @@ color: grey;
     margin-top: 30px;
 }
 
+.caption{
+    font-size: 15px;
+}
+
 .articolo{
     margin-top: 30px;
     font-size: 20px;
